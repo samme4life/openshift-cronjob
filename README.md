@@ -1,8 +1,6 @@
 ## YAML File to create a CronJob in OpenShift
 This codebase contains the YAML file which contains the cronjob information to be imported into OpenShift project
 
-The API Document can be found at "https://app.swaggerhub.com/apis/samme4life/user-rego/0.0.1"
-
 ## Reference
 
 * OpenShift Documentation on Jobs & Cron Jobs: "https://docs.openshift.com/container-platform/4.1/nodes/jobs/nodes-nodes-jobs.html"
