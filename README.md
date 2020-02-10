@@ -5,7 +5,7 @@ This codebase contains the YAML file which contains the cronjob information to b
 
 * OpenShift Documentation on Jobs & Cron Jobs: "https://docs.openshift.com/container-platform/4.1/nodes/jobs/nodes-nodes-jobs.html"
 * StackOverflow Thread I raised: "https://stackoverflow.com/questions/60135077/run-a-kubernetes-cron-job-from-openshift-to-call-a-rest-endpoint-periodically"
-* StackOverflow Thread I found the solution: "https://stackoverflow.com/questions/47203080/call-endpoint-from-kubernetes-cron-job"
+* StackOverflow Thread where I found the solution: "https://stackoverflow.com/questions/47203080/call-endpoint-from-kubernetes-cron-job"
 	
 ## Important OC commands
 
