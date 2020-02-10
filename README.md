@@ -12,6 +12,7 @@ The API Document can be found at "https://app.swaggerhub.com/apis/samme4life/use
 ## Important OC commands
 
 * login to a certain OpenShift cluster: oc login --server=<server-url>
+	
     Then provide relevant un and pw
 * to delete a cron-job: oc delete cronjob/<cron_job_name>
 	
